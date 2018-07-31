@@ -1,0 +1,33 @@
+.masthead {
+  background-color: #ffbf43;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 35px;
+  padding: 10px;
+  text-align: center;
+}
+
+#search-keyword {
+  background-color: #fafec4;
+  width: 400px;
+  height: 40px;
+  border-radius: 5%;
+}
+
+.visuallyhidden{
+  visibility: hidden;
+}
+
+#submit-btn {
+  height: 40px;
+}
+
+ul  {
+  padding: 20px;
+}
+
+.site-container {
+  text-align: center;
+}
